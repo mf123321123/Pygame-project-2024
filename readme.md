@@ -17,3 +17,8 @@
 * Game freezes when you die for like a few seconds then black screen with texts comes out after (I don't know why)
 
 * After you respawn, your first contact with the creatures doesn't show the black screen when you die, the player position just gets reseted (I don't know why)
+
+#### Attribution
+
+* Used OpenAI's ChatGPT for attempting to change hitbox & have some help with lines 313 to 355
+* Used the game examples to add background image
